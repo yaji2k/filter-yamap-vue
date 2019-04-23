@@ -1,4 +1,5 @@
-# filter-vue
+# filter-yamap-vue
+filter bar for a markers
 
 ## Project setup
 ```

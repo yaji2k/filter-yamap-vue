@@ -1,4 +1,4 @@
-<template>
+F<template>
   <div id="app" class="wrapper">
     <yandex-map
       :coords="[54.62896654088406, 39.731893822753904]"
